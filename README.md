@@ -39,7 +39,3 @@ Questo repository contiene un insieme di algoritmi e implementazioni Python util
 - **Funzione**: `conversione_in_chomsky(grammatica)`
 - **Descrizione**: Trasforma una grammatica context-free nella forma normale di Chomsky.
 - **Scopo**: Rappresentazione compatta e analisi dei linguaggi formali.
-
-### Esecuzione
-- Prerequisiti: Python 3.8 o superiore.
-- Librerie richieste: `math`, `collections`
